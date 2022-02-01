@@ -1,0 +1,131 @@
+header
+{
+    background-image:url(../../assets/images/P116067.JPG);
+    background-size: cover;
+    position: relative;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    height: 60vw;
+}
+
+.myBlur
+{
+    height: 100%;
+    backdrop-filter: blur(3px);
+}
+
+header .container > div {
+    margin: 0 auto;
+    position: relative;
+}
+
+header .container {
+    height: 100%;
+}
+
+header .container > div {
+    padding-top: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+header .container > div h1 {
+    font-size: 5vw;
+}
+
+header .container > div p {
+    font-size: 2vw;
+}
+
+header button {
+    background-color: transparent;
+    display: block;
+    border: 1px solid #FFF;
+    border-radius: 50px;
+    padding: 0;
+    margin: 30px auto;
+    
+}
+
+@media screen and (max-width:600px)
+{
+    header button {
+    margin: auto auto; 
+    }
+    header button a#but
+    {
+        padding: 5px 20px;
+        font-size: small;
+    }
+    header{
+        height: 60vw;
+    }
+    header .container > div p {
+        font-size: 2.5vw;
+    } 
+}
+@media screen and (max-width:530px)
+{
+    header{
+        height: 60vw;
+    }
+    header .container > div p {
+        font-size: 2vw;
+    }
+}
+@media screen and (max-width:470px)
+{
+    header{
+        height: 70vw;
+    }
+    
+}
+@media screen and (max-width:400px)
+{
+    header{
+        height: 80vw;
+        background-position: center;
+    }
+    header .container > div p {
+        font-size: 3vw;
+        margin-bottom: 5px; 
+    }
+
+    
+}
+@media screen and (max-width:300px)
+{
+    header{
+        height: 90vw;
+    }
+    
+}
+@media screen and (max-width:230px)
+{
+    header{
+        height: 100vw;
+    }
+    
+}
+@media screen and (max-width:200px)
+{
+    header{
+        height:100vw;
+    }
+    header button{
+        display: none;
+    }
+}
+
+header button a {
+    padding: 10px 40px;
+    display: block;
+    color: #FFF;
+    text-decoration: none;
+}
+
+header button:hover {
+    border: none;
+    background: #527597;
+    
+}

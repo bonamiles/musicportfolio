@@ -1,0 +1,33 @@
+  <nav id="mainnav" class="single-page-na navbar navbar-expand-lg navbar-light fixed-top" > 
+    <a href="#"><img style="height: 30px;" src="./assets/images/headicon.png"></a>
+    <div class="container" >
+      <a class="navbar-brand" >Obinna Eva</a>
+    <button class="navbar-toggler" (click)="hamburger()" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span> 
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" style="cursor: pointer;" (click)="onClickk('home')" >Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item shows">   
+            <a class="nav-link" style="cursor: pointer;" (click)="onClickk('shows')">Shows</a>
+          </li>
+          <li class="nav-item music">
+            <a class="nav-link" style="cursor: pointer;" (click)="onClickk('music')">Music</a>
+          </li>
+        <li class="nav-item videos">
+          <a class="nav-link" style="cursor: pointer;" (click)="onClickk('videos')">Videos</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link media" style="cursor: pointer;" (click)="onClickk('media')">Media</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link contact" style="cursor: pointer;" (click)="onClickk('contact')">Contact</a>
+        </li>
+        
+      </ul>
+    </div>
+    </div>
+  </nav>
+

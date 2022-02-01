@@ -1,0 +1,27 @@
+body
+{
+    font-family: poppins;
+
+}
+
+.navbar-light #navbarNav .nav-link
+{
+    color: aliceblue;
+}
+.navbar-light #navbarNav .nav-link:hover
+{
+    color: rgb(33, 32, 36);
+}
+
+.navbar-light .navbar-brand
+{
+    color: aliceblue;
+}
+
+
+
+.navbar-inverse
+{
+    background: #527597;
+    transition: background 500ms;
+}
