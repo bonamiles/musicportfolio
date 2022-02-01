@@ -1,0 +1,147 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643682013647,
+  "index": "https://bonamiles.github.io/musicportfolio/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://bonamiles.github.io/musicportfolio/favicon.ico",
+        "https://bonamiles.github.io/musicportfolio/index.html",
+        "https://bonamiles.github.io/musicportfolio/main.9b08fa8332c7b822e2c3.js",
+        "https://bonamiles.github.io/musicportfolio/manifest.webmanifest",
+        "https://bonamiles.github.io/musicportfolio/polyfills.6abdde2583a2e01a2350.js",
+        "https://bonamiles.github.io/musicportfolio/runtime.7b63b9fd40098a2e8207.js",
+        "https://bonamiles.github.io/musicportfolio/scripts.cc7c60a93fce649416d7.js",
+        "https://bonamiles.github.io/musicportfolio/styles.393dc33b301126b9cdcb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-128x128.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-144x144.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-152x152.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-192x192.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-384x384.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-512x512.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-72x72.png",
+        "https://bonamiles.github.io/musicportfolio/assets/icons/icon-96x96.png",
+        "https://bonamiles.github.io/musicportfolio/assets/images/P1160580.JPG",
+        "https://bonamiles.github.io/musicportfolio/assets/images/P116067.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/P116068.JPG",
+        "https://bonamiles.github.io/musicportfolio/assets/images/P1180381.JPG",
+        "https://bonamiles.github.io/musicportfolio/assets/images/album.png",
+        "https://bonamiles.github.io/musicportfolio/assets/images/artwork.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/concert.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/guitar wall.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/headicon.png",
+        "https://bonamiles.github.io/musicportfolio/assets/images/icon.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/icon.png",
+        "https://bonamiles.github.io/musicportfolio/assets/images/logo.png",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/bike.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/diwali.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/farm.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/goa.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/interview.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/news.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/pool.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/srerama.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/media/turtle.jpg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/show1.jpeg",
+        "https://bonamiles.github.io/musicportfolio/assets/images/show2.jpeg",
+        "https://bonamiles.github.io/musicportfolio/flags.007b2705c0a8f69dfdf6.png",
+        "https://bonamiles.github.io/musicportfolio/flags16.f215236226a61cb0e795.png",
+        "https://bonamiles.github.io/musicportfolio/flags@2x.9d5328fb490cddd43f66.png",
+        "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://bonamiles.github.io/musicportfolio/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://bonamiles.github.io/musicportfolio/assets/images/P1160580.JPG": "03f813a901fb4680344a1627fba4b2d9368335ba",
+    "https://bonamiles.github.io/musicportfolio/assets/images/P116067.jpg": "2bd80eee86824bda6062f2b7248b3ab03a6f765f",
+    "https://bonamiles.github.io/musicportfolio/assets/images/P116068.JPG": "4334541f2739c3ea696c9a274e355833a697b256",
+    "https://bonamiles.github.io/musicportfolio/assets/images/P1180381.JPG": "a7c931a7b39447d715fc2c1cc9ba1085d323874b",
+    "https://bonamiles.github.io/musicportfolio/assets/images/album.png": "f4df6c0e3c24edd446c06ce0a9f4949ff42138cf",
+    "https://bonamiles.github.io/musicportfolio/assets/images/artwork.jpg": "d002d025010bebd3e41d4c0a397849f275b491c4",
+    "https://bonamiles.github.io/musicportfolio/assets/images/concert.jpg": "5e64aa45793fbc36a1eb8023acf35ff530abb708",
+    "https://bonamiles.github.io/musicportfolio/assets/images/guitar wall.jpg": "b49aeb91c978747da960cd3fb1b17bdf31392b75",
+    "https://bonamiles.github.io/musicportfolio/assets/images/headicon.png": "d85d8a3d87f8d587dcd245e60ac7958493606ea7",
+    "https://bonamiles.github.io/musicportfolio/assets/images/icon.jpg": "bb1f4145925bc86eaf5a4c39e3a374b7c9b5b337",
+    "https://bonamiles.github.io/musicportfolio/assets/images/icon.png": "52b232075bf97645705bf03b925431d25c2bead0",
+    "https://bonamiles.github.io/musicportfolio/assets/images/logo.png": "3490b9054c9cd0ebe8363280e197692362f7ef3b",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media.jpg": "7c5e7f14f8688a05ce4819d92767b3d5d1446f2f",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/bike.jpg": "d1e98bf36fa0c175b36986f7509a905f0aa2a82c",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/diwali.jpg": "f3ff573de043f0b47b5f42e6d1038446f4de46bf",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/farm.jpg": "d93f0fafebd75a21e3ac228f6fd85d496603d9d9",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/goa.jpg": "37a16b87e12e04956dd1d14d63ef3e4ed24eba5f",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/interview.jpg": "e347d2e49bcc4826a26c81104eb59ae935c049c5",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/news.jpg": "b35ded810676c27f3e4a0928a720a8c6e2d2de3a",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/pool.jpg": "4ab719a5765b9f6f352ce2af5bc558af4454791c",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/srerama.jpg": "70c0da4a2d683bbc9306ba8f1e2a32ed23fa129c",
+    "https://bonamiles.github.io/musicportfolio/assets/images/media/turtle.jpg": "bab4f7523ef2445455650fc9fc7200551a4302e8",
+    "https://bonamiles.github.io/musicportfolio/assets/images/show1.jpeg": "24a9f44d840cfb0414f04c816d12f19cfbb37c1c",
+    "https://bonamiles.github.io/musicportfolio/assets/images/show2.jpeg": "761235f4820c8f4394b8918e83403683a8e234f5",
+    "https://bonamiles.github.io/musicportfolio/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://bonamiles.github.io/musicportfolio/flags.007b2705c0a8f69dfdf6.png": "21572c9751e5a3dc20395befa0fcb349c32c4811",
+    "https://bonamiles.github.io/musicportfolio/flags16.f215236226a61cb0e795.png": "83fd46722755ca482e697c4a722fc0a832df1c29",
+    "https://bonamiles.github.io/musicportfolio/flags@2x.9d5328fb490cddd43f66.png": "d6f843711c3cfe6d9a037e4c61d293f563e55802",
+    "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "https://bonamiles.github.io/musicportfolio/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "https://bonamiles.github.io/musicportfolio/index.html": "904cdc4c23a186c5461e808e451432ec26d9ad8a",
+    "https://bonamiles.github.io/musicportfolio/main.9b08fa8332c7b822e2c3.js": "9fbeb5d33cde66a9eb99030aa0308a29cdbfbf2c",
+    "https://bonamiles.github.io/musicportfolio/manifest.webmanifest": "e14484a4f652e2f158ec8045c44ef1b6d61e9f2d",
+    "https://bonamiles.github.io/musicportfolio/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
+    "https://bonamiles.github.io/musicportfolio/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://bonamiles.github.io/musicportfolio/scripts.cc7c60a93fce649416d7.js": "3f2208551d6397570047ebd7f66cb29c7e9e0cb4",
+    "https://bonamiles.github.io/musicportfolio/styles.393dc33b301126b9cdcb.css": "f348cbfe4539fda6cbb4dc3e10b345a4f485b1e3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
